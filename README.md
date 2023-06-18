@@ -13,8 +13,10 @@
    
  
 </p>
-
 </div>
+
+---
+
 <div align = "center">
 <h3 align="center">📚 Platform & Languages & Tools 📚</h3>
 <p align="center">
