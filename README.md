@@ -2,7 +2,19 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkms9978%2Fkms9978&count_bg=%2330D3AA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kms9978)
 </div>
+<div align= "center">
+   
+### 🤖 Hello
 
+<p>
+  👋&nbsp; Hi there! I'm <b>Mobile app developer</b> using Android.🚀<br/><br/>
+  I am currently majoring in software at university. <br/>
+  I plan to learn Docker and IOS as well as Android in the future.<br/><br/>
+   
+ 
+</p>
+
+</div>
 <div align = "center">
 <h3 align="center">📚 Platform & Languages & Tools 📚</h3>
 <p align="center">
