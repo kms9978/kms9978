@@ -18,7 +18,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Mobile app developer</b> using Android.🚀<br/><br/>
   I am currently majoring in software at university. <br/>
-  I plan to learn Docker and IOS as well as Android in the future.<br/><br/>
+  I plan to learn Jenkins and IOS as well as Android in the future.<br/><br/>
    
  
 </p>
