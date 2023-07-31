@@ -44,7 +44,7 @@
    <p align="center">
 <img src="https://img.shields.io/badge/Clean-Architecture-CCFFFF?style=flat-square&logo=Clean-Architecture&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
