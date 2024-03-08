@@ -8,11 +8,8 @@
    
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Mobile app developer</b> using Android.🚀<br/><br/>
-  I am currently majoring in software at university. <br/>
-  I plan to learn Jenkins and IOS as well as Android in the future.<br/><br/>
-   
- 
+  👋&nbsp; Hi there! I'm <b>Mobile app developer</b> using Android.🚀<br/>
+  I am currently learning jetpack Compose, Courtine, Architecture.<br/><br/>
 </p>
 </div>
 
@@ -32,14 +29,18 @@
  
 </p>
 
-   <h3 align="center">📜 Studying 📜</h3>
-   <p align="center">
-<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
 
 
   ---
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kms9978&layout=compact&langs_count=10&hide=html,css,php" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kms9978&layout=compact&langs_count=10&hide=html,css,php" style="height: 150px; width: auto;" />
+  <a href="https://solved.ac/rkdms4971/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdms4971" style="height: 150px; width: auto;" />
+  </a>
 </div>
+
+
+
+
+
